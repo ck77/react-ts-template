@@ -1,8 +1,8 @@
 import React from "react";
-import Demo from './page/demo1'
+import Demo2 from './page/demo2'
 
 const App = () => {
-    return <div className="container"><Demo /></div>
+    return <div className="container"><Demo2 /></div>
 }
 
 export default App;
